@@ -9,7 +9,7 @@ const navLinks = [
 ]
 function Header() {
   return (
-    <div className='flex flex-wrap justify-between items-center gap-5 py-5 px-16 border-b border-black text-black'>
+    <div className='flex flex-wrap justify-between items-center gap-5 py-5 px-20 border-b border-black bg-[#2a254b] text-white'>
         <h1 className="text-2xl font-semibold">Avion</h1>
         <p className="font-semibold md:ml-40">Checkout the Navigation Links</p>
         <ul className="flex justify-center gap-6">

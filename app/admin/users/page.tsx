@@ -22,11 +22,27 @@ import {
 const users = [
   {
     id: 1,
-    name: "John Doe",
-    email: "john@example.com",
+    name: "Shehzad Rahim",
+    email: "Shehzad@example.com",
     role: "Customer",
     status: "Active",
-    joinDate: "2024-01-15",
+    joinDate: "2025-01-01",
+  },
+  {
+    id: 1,
+    name: "Usman Khan",
+    email: "Usman@example.com",
+    role: "Customer",
+    status: "Active",
+    joinDate: "2025-01-01",
+  },
+  {
+    id: 1,
+    name: "Muneeb Ahmed",
+    email: "Muneeb@example.com",
+    role: "Customer",
+    status: "Active",
+    joinDate: "2025-01-01",
   },
   // Add more mock data as needed
 ];

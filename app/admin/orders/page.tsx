@@ -23,11 +23,27 @@ import {
 const orders = [
   {
     id: "#ORD-001",
-    customer: "John Doe",
-    date: "2024-03-20",
+    customer: "Shehzad Rahim",
+    date: "2025-01-03",
     total: "$299.99",
     status: "Completed",
     payment: "Paid",
+  },
+  {
+    id: "#ORD-002",
+    customer: "Usman Khan",
+    date: "2025-01-04",
+    total: "$305",
+    status: "Completed",
+    payment: "Paid",
+  },
+  {
+    id: "#ORD-003",
+    customer: "Muneeb Ahmed",
+    date: "2025-01-06",
+    total: "$280",
+    status: "Pending",
+    payment: "Pending",
   },
   // Add more mock data as needed
 ];
